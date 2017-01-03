@@ -1,5 +1,3 @@
-**
-
 the basics + ngif, ngFor and inline styles
 
 # NgSass
